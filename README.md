@@ -2,14 +2,14 @@
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
-Installation:
+<h4>Installation:</h4>
 
-npm install
+<code> npm install </code>
 
-To Start Server:
+<h4>To Start Server:</h4>
 
-npm start
+<code>npm start</code>
 
-To Visit App:
+<h4>To Visit App:</h4>
 
-localhost:3000/ideas
+<code>localhost:3000/ideas</code>
