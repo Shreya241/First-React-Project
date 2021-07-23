@@ -4,12 +4,12 @@ Clone down this repository. You will need node and npm installed globally on you
 
 <h4>Installation:</h4>
 
-<code> npm install </code>
+<pre><code> npm install </code></pre>
 
 <h4>To Start Server:</h4>
 
-<code>npm start</code>
+<pre><code>npm start</code></pre>
 
 <h4>To Visit App:</h4>
 
-<code>localhost:3000/ideas</code>
+<pre><code>localhost:3000/ideas</code></pre>
